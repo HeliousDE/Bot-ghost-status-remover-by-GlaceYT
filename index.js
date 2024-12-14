@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing on Helious"];
+const statusMessages = ["Playing on Helious.de"];
 
 
 let currentIndex = 0;
